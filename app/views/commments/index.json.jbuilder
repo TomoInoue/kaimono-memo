@@ -1,1 +1,0 @@
-json.array! @commments, partial: 'commments/commment', as: :commment
